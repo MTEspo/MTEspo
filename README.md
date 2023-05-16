@@ -1,6 +1,10 @@
 <h1 align="center">Hello, I'm Mario Thomas</h1>
 <h3 align="center">A third year Concordia University Software Engineering student with a passion for software development</h3>
-
+- 🔭 I’m currently working on learning as much as I can about different programming languages and their uses</br>
+- 🌱 I’m currently learning Python by taking UDEMY classes and working on smaller side projects and exercises</br>
+- 🌱 I’m also currently learning machine learning and AI by taking UDEMY classes and reading up on them through multiple other sources</br>
+- 🌱 I’m currently learning SQL by taking UDEMY classes and learning more about databases</br>
+- 🌟I am always strengthening my knowledge on Data Structures and Algorithms through practice exercises</br>
 - 📫 Reach me at **mariothomasesposito@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
