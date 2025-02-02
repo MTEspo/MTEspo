@@ -5,7 +5,7 @@
 - 🌱 I’m also currently learning machine learning and AI by taking UDEMY classes and reading up on them through multiple other sources</br>
 - 🌱 I’m currently learning Arduino independently to improve my knowledge on robotics </br>
 - 🌟I am always strengthening my knowledge on Data Structures and Algorithms through practice exercises</br>
-- 📫 Reach me at **mariothomasesposito@gmail.com**
+- 📫 Reach me at <b>mariothomasesposito@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
